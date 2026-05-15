@@ -1,3 +1,0 @@
-pyodbc
-peewee
-python-decouple
