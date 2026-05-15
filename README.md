@@ -7,8 +7,8 @@ Usuário github: araujodemedeirosmariana-jpg<br>
 E-mail: araujodemedeirosmariana@gmail.com
 ---
 ### 📁 Arquivos da tarefa:
-- [Tarefa01](./tarefa-mongodb.md)
-- [Tarefa02](./crud_mongodb.py)
-- [Tarefa03](./init.js)
+- [Tarefa01](./tarefas/tarefa01)
+- [Tarefa02](./tarefas/tarefa02)
+- [Tarefa03](./tarefas/tarefa03)
 
 
