@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-06-18 18:28:42 #1 store] 
+Database '/workspaces/banco_de_dados/ObjectDB/objectdb-exemplo/meubanco.odb' is opened by 14525@codespaces-15df9d
+
+[2026-06-18 18:28:42 #2 store] 
+Configuration path: ?
+
+[2026-06-18 18:28:42 #3 type] 
+Type Pessoa is not enhanced.
+
+[2026-06-18 18:28:42 #4 store] 
+Database '/workspaces/banco_de_dados/ObjectDB/objectdb-exemplo/meubanco.odb' is closed by 14525@codespaces-15df9d
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-06-18 18:30:58 #1 store] 
+Database '/workspaces/banco_de_dados/ObjectDB/objectdb-exemplo/meubanco.odb' is opened by 15644@codespaces-15df9d
+
+[2026-06-18 18:30:58 #2 store] 
+Configuration path: ?
+
+[2026-06-18 18:30:59 #3 type] 
+Type Pessoa is not enhanced.
+
+[2026-06-18 18:30:59 #4 store] 
+Database '/workspaces/banco_de_dados/ObjectDB/objectdb-exemplo/meubanco.odb' is closed by 15644@codespaces-15df9d
+

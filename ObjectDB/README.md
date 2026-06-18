@@ -53,6 +53,21 @@ O servidor iniciará na porta padrão:
 6136
 ```
 
+### Importante
+
+Neste exemplo, a pasta `objectdb-exemplo/lib` já contém o arquivo `objectdb.jar` e a dependência `javax.persistence-api-2.2.jar`.
+
+### Executando o exemplo localmente
+
+No diretório `ObjectDB/objectdb-exemplo`, torne o script executável e execute-o:
+
+```bash
+chmod +x run.sh
+./run.sh
+```
+
+O script compila `src/Main.java` e `src/Pessoa.java` em `target/classes` e executa a classe `Main` usando `objectdb.jar` e `javax.persistence-api-2.2.jar`.
+
 ## Exemplo de Programa Java
 
 ### Classe Pessoa
