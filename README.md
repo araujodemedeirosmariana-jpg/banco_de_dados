@@ -9,7 +9,7 @@ E-mail: araujodemedeirosmariana@gmail.com
 ### 📁 Arquivos da tarefa:
 - [Tarefa01](./tarefas/tarefa01)
 - [Tarefa02](./tarefas/tarefa02)
-- [Tarefa3](./tarefas/tarefa3)
+- [Tarefa03](./tarefas/tarefa03)
 - 
 
 
